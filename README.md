@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pontus Morin</h1>
-<h3 align="center">Computer Science student at KTH
+<h1 align="center">Hi 👋</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
