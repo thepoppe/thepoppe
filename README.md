@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pontus Morin</h1>
-<h3 align="center">Former electrician pursuing his tech interest. Currently, on my second year in computer engineering @ KTH and looking forward to learn more about the whole picture. I have done little of everything during my 2 years of studies, from web development, socket programming to functional programming and the most fun so far was the web-development course. Therefore looking to learn more about web development.
-
-- 🌱 I’m currently learning **Multivariable Calculus => less coding **
-
-- ⚡ Fun fact **I throw plastic discs over 100 meters as a hobby**
+<h3 align="center">Computer Science student at KTH
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
